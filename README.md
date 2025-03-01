@@ -1,4 +1,4 @@
-FrontEnd Prueba Técnica
+# FrontEnd Prueba Técnica
 
 Este es el frontend de la Prueba Técnica, desarrollado en Angular 19.2.0.
 
